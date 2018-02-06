@@ -2,6 +2,11 @@
 Web Based, Non-Linear Game Dialogue Editor.
 #
 Talkit is a fork of [et1337's](https://github.com/et1337) wonderful [The Poor Man's Dialogue Tree](http://et1337.com/2014/05/16/the-poor-mans-dialogue-tree/) which is currently part of [Lemma](https://github.com/et1337/Lemma) project.
+
+# How to Run Talkit
+Talkit is freely hosted online from this Git Repo Directly Via
+[Github Pages](https://eforen.github.io/Talkit/)
+
 ##Description.
 Talkit is a Non-linear, node based, game dialog editor. 
 It runs on [jointJS](http://www.jointjs.com/). It exports to JSON with game ready content.
